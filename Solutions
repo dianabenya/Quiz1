@@ -1,0 +1,45 @@
+
+	1. Which of the following return a subset of the columns of a data frame ?
+	a) select
+	
+
+	2. Point out the correct statement :
+	d) All of the mentioned
+	
+
+	3. _________ extract a subset of rows from a data frame based on logical conditions.
+	b) filter
+	
+
+	4. _________ generate summary statistics of different variables in the data frame, possibly within strata
+	b) summarize
+	
+
+	5. Point out the wrong statement :
+	d) None of the mentioned
+	
+
+	6. ________ add new variables/columns or transform existing variables
+	a) mutate
+	
+
+	7. The _______ operator is used to connect multiple verb actions together into a pipeline
+	a) pipe
+	
+
+	Strings and Regexps
+	
+	8. Which metacharacter matches the end of a string?
+	A.	$
+	
+
+	9. What does this expression match?
+	^[abcd] 
+	C.	Any string that begins with a lowercase a, b, c, or d
+	
+
+	10. 8.	Which of the following regular expressions will match this string:
+	AaZzXzY 
+	C.	^\w*$
+	
+	
